@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+  "InstLine" : 39550,
+  "InstName" : "Gowin_EMPU_M1_Top",
+  "ModuleFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+  "ModuleLine" : 39550,
+  "ModuleName" : "Gowin_EMPU_M1_Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+    "InstLine" : 39893,
+    "InstName" : "M1_inst",
+    "ModuleFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "CortexM1DbgIntegrationWrapper"
+   },
+   {
+    "InstFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+    "InstLine" : 40051,
+    "InstName" : "u_GowinCM1AhbExtWrapper",
+    "ModuleFile" : "C:/Users/hamed/OneDrive/Documents/GitHub/fpga_project_Cortex-M/src/gowin_empu_m1/gowin_empu_m1.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "GowinCM1AhbExtWrapper"
+   }
+  ]
+ }
+]
